@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+// First tutorial!
 
 int sum(std::vector<int>& vec)
 {
